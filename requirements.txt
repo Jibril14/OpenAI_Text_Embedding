@@ -1,0 +1,6 @@
+python-dotenv
+openai
+mwclient
+mwparserfromhell
+pandas
+tiktoken
